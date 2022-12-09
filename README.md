@@ -1,9 +1,9 @@
 # Welcome to SARA project
 #### Search and Rescue Application
 
-## iOS app repository: [🍎 iOS app](https://github.com/macko99/sara-ios)
+## iOS app repository: [🍎 iOS app](https://github.com/macko99/sara-ios-public)
 
-## Docker compose repo: [💿 Docker](https://github.com/macko99/sara-docker)
+## Docker compose repo: [💿 Docker](https://github.com/macko99/sara-docker-public)
 
 
 ## What's SARA?
