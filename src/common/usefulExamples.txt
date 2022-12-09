@@ -1,0 +1,15 @@
+<OverlayTrigger
+      placement='top', 'right', 'bottom', 'left'
+      overlay={<Tooltip>MYTEXT</Tooltip>}>
+
+
+    </OverlayTrigger>
+    <OverlayTrigger
+                                placement='bottom'
+                                overlay={<Tooltip>Dodawaj i usuwaj użytkowników z akcji
+                                </Tooltip>}
+                            >
+
+                            </OverlayTrigger>
+
+style={{width: "8%"}}

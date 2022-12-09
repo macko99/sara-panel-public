@@ -1,0 +1,64 @@
+{
+  "name": "react-hooks-jwt-auth",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/helper-create-class-features-plugin": "^7.16.0",
+    "@babel/helper-plugin-utils": "^7.14.5",
+    "@babel/plugin-transform-react-jsx": "^7.16.0",
+    "@babel/plugin-transform-runtime": "^7.16.4",
+    "@babel/runtime": "^7.16.3",
+    "@react-google-maps/api": "^2.7.0",
+    "@syncfusion/ej2-react-calendars": "^19.3.53",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "~0.19.2",
+    "bootstrap": "^5.1.3",
+    "i18next": "^21.5.2",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "prop-types": "^15.7.2",
+    "randomcolor": "^0.6.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.2",
+    "react-bootstrap-icons": "^1.6.1",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-toolkit": "^2.1.3",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.14.2",
+    "react-icons": "^4.3.1",
+    "react-indexed-db": "^1.0.12",
+    "react-phone-input-2": "^2.14.0",
+    "react-router-dom": "~5.2.1",
+    "react-scripts": "^4.0.3",
+    "react-validation": "^3.0.7",
+    "serve": "^13.0.2",
+    "validator": "^13.7.0"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "start": "serve -n -s build",
+    "build": "react-scripts build",
+    "heroku-postbuild": "npm run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/google.maps": "^3.46.1",
+    "react-bootstrap-table2-filter": "^1.3.3"
+  }
+}
